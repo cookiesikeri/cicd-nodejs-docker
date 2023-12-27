@@ -76,7 +76,7 @@ cd /home/ubuntu
 ```
 
 ```sh
-git clone https://github.com/Shaharyar07/Dummy-Server-Node-Express.git
+git clone https://github.com/cookiesikeri/cicd-nodejs-docker
 ```
 
 ### 5. Run node app.js  (Make sure everything working)
